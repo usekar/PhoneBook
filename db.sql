@@ -12,4 +12,4 @@ create table Contacts(
    PRIMARY KEY ( id )
 );	
  
-select  * from  Contacts
+select  * from  Contacts;
